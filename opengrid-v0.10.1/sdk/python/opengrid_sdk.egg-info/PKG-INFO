@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: opengrid-sdk
+Version: 0.1.0
+Summary: Versioned adapter SDK for OpenGrid
+Requires-Python: >=3.11
+Requires-Dist: httpx<1,>=0.27
