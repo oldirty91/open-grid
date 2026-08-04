@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "LIGHTS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 36834505, "FIDS": 50, "LNAM": "022602320CC90032", "CATLIT": [ ], "COLOUR": [ "6" ], "EXCLIT": 4, "LITCHR": 2, "SIGGRP": "(1)", "SIGPER": 3.0, "SIGSEQ": "00.8+(02.2)", "SCAMIN": 29999, "SORDAT": "20200826", "SORIND": "US,US,reprt,1stCGD,LNM 34/20" }, "geometry": { "type": "Point", "coordinates": [ -71.5290611, 41.11015 ] } },
+{ "type": "Feature", "properties": { "RCID": 3, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 36834468, "FIDS": 50, "LNAM": "022602320CA40032", "CATLIT": [ ], "COLOUR": [ "6" ], "EXCLIT": 4, "LITCHR": 2, "SIGGRP": "(1)", "SIGPER": 3.0, "SIGSEQ": "00.8+(02.2)", "SCAMIN": 29999, "SORDAT": "20200826", "SORIND": "US,US,reprt,1stCGD,LNM 34/20" }, "geometry": { "type": "Point", "coordinates": [ -71.51395, 41.1198806 ] } },
+{ "type": "Feature", "properties": { "RCID": 4, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 36834520, "FIDS": 50, "LNAM": "022602320CD80032", "CATLIT": [ ], "COLOUR": [ "6" ], "EXCLIT": 4, "LITCHR": 4, "SIGGRP": "(1)", "SIGPER": 1.0, "SIGSEQ": "00.3+(00.7)", "SCAMIN": 29999, "SORDAT": "20151208", "SORIND": "US,US,reprt,1stCGD,LNM 49/15" }, "geometry": { "type": "Point", "coordinates": [ -71.5376389, 41.1063306 ] } },
+{ "type": "Feature", "properties": { "RCID": 5, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 36834350, "FIDS": 50, "LNAM": "022602320C2E0032", "CATLIT": [ ], "COLOUR": [ "6" ], "EXCLIT": 4, "LITCHR": 4, "SIGGRP": "(1)", "SIGPER": 1.0, "SIGSEQ": "00.3+(00.7)", "SCAMIN": 29999, "SORDAT": "20151208", "SORIND": "US,US,reprt,1stCGD,LNM 49/15" }, "geometry": { "type": "Point", "coordinates": [ -71.5075111, 41.1257611 ] } },
+{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 567784656, "FIDS": 2005, "LNAM": "022621D7B4D007D5", "CATLIT": [ ], "COLOUR": [ "6" ], "EXCLIT": 4, "LITCHR": 2, "SIGGRP": "(1)", "SIGPER": 3.0, "SIGSEQ": "00.8+(02.2)", "SCAMIN": 29999, "SORDAT": "20200826", "SORIND": "US,US,reprt,1stCGD,LNM 34/20" }, "geometry": { "type": "Point", "coordinates": [ -71.5211611, 41.1147111 ] } }
+]
+}

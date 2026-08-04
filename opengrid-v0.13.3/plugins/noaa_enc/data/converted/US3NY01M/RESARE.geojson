@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RESARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 738, "PRIM": 3, "GRUP": 2, "OBJL": 112, "RVER": 1, "AGEN": 550, "FIDN": 362827826, "FIDS": 48294, "LNAM": "022615A05032BCA6", "CATREA": [ "1" ], "OBJNAM": "New York Marine Inspection Zone and Captain of the Port Zone", "INFORM": "Security zone, 33 CFR 165.169: Navigation regulations are published in Chapter 2 of the U.S. Coast Pilot for this geographic area. Refer to regulation section numbers", "SCAMIN": 999999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.5440811, 39.6 ], [ -70.8380685, 38.7666666 ], [ -70.7730588, 38.7666666 ], [ -70.6896046, 38.7666666 ], [ -72.09824, 39.6 ], [ -72.1171888, 39.6 ], [ -72.1344204, 39.6 ], [ -72.1551736, 39.6 ], [ -72.1710739, 39.6 ], [ -72.1825554, 39.6 ], [ -72.2015027, 39.6 ], [ -72.212864, 39.6 ], [ -72.2364455, 39.6 ], [ -72.2612199, 39.6 ], [ -72.3360309, 39.6 ], [ -72.3740477, 39.6 ], [ -72.3790309, 39.6 ], [ -72.3820011, 39.6 ], [ -72.3846015, 39.6 ], [ -72.3884565, 39.6 ], [ -72.391, 39.6 ], [ -72.4299298, 39.6 ], [ -72.4354695, 39.6 ], [ -72.4393573, 39.6 ], [ -72.4431154, 39.6 ], [ -72.4499779, 39.6 ], [ -72.4525525, 39.6 ], [ -72.462264, 39.6 ], [ -72.5049083, 39.6 ], [ -72.5440811, 39.6 ] ] ] } }
+]
+}

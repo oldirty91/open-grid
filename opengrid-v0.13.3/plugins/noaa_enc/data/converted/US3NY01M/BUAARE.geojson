@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUAARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 111, "PRIM": 3, "GRUP": 2, "OBJL": 13, "RVER": 1, "AGEN": 550, "FIDN": 37880164, "FIDS": 50, "LNAM": "0226024201640032", "CATBUA": 5, "OBJNAM": "Ocean City", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -74.5839211, 39.2794404 ], [ -74.5768215, 39.2713292 ], [ -74.5718388, 39.2734767 ], [ -74.5655101, 39.2758077 ], [ -74.5634556, 39.2767254 ], [ -74.5612359, 39.2779918 ], [ -74.5590161, 39.2797354 ], [ -74.5573867, 39.2816074 ], [ -74.5634688, 39.2869893 ], [ -74.5651277, 39.2889212 ], [ -74.5681109, 39.2910897 ], [ -74.5704264, 39.2893325 ], [ -74.5761158, 39.2856803 ], [ -74.5782888, 39.2842504 ], [ -74.5797811, 39.2835112 ], [ -74.5817345, 39.2824755 ], [ -74.5839211, 39.2794404 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 122, "PRIM": 1, "GRUP": 2, "OBJL": 13, "RVER": 1, "AGEN": 550, "FIDN": 37886315, "FIDS": 50, "LNAM": "02260242196B0032", "CATBUA": 1, "OBJNAM": "Beach Haven", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -74.2403607, 39.5573718 ] } },
+{ "type": "Feature", "properties": { "RCID": 123, "PRIM": 1, "GRUP": 2, "OBJL": 13, "RVER": 1, "AGEN": 550, "FIDN": 37886754, "FIDS": 50, "LNAM": "022602421B220032", "CATBUA": 1, "OBJNAM": "Ventnor", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -74.5119492, 39.3331627 ] } },
+{ "type": "Feature", "properties": { "RCID": 124, "PRIM": 1, "GRUP": 2, "OBJL": 13, "RVER": 1, "AGEN": 550, "FIDN": 37886893, "FIDS": 50, "LNAM": "022602421BAD0032", "CATBUA": 5, "OBJNAM": "Atlantic City", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -74.4629681, 39.3691749 ] } },
+{ "type": "Feature", "properties": { "RCID": 125, "PRIM": 1, "GRUP": 2, "OBJL": 13, "RVER": 1, "AGEN": 550, "FIDN": 37876670, "FIDS": 50, "LNAM": "02260241F3BE0032", "CATBUA": 1, "OBJNAM": "Brigantine", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -74.3722172, 39.4064162 ] } }
+]
+}
