@@ -1,0 +1,3 @@
+{"hex":"a1b2c3","flight":"N123AB","lat":41.62,"lon":-71.22,"alt_baro":8500,"gs":145,"track":210,"category":"A3","r":"N123AB","t":"C172"}
+{"hex":"a4d5e6","flight":"FDX812","lat":41.35,"lon":-71.48,"alt_baro":24000,"gs":390,"track":55,"category":"A5","r":"N812FX","t":"B763","desc":"CARGO"}
+{"hex":"a7f8b9","flight":"LIFE1","lat":41.51,"lon":-71.05,"alt_baro":3200,"gs":105,"track":135,"category":"A7","r":"N911ME","t":"EC35","desc":"HELICOPTER"}

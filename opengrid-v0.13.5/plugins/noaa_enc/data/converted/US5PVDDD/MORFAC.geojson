@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "MORFAC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2347, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 718378499, "FIDS": 7303, "LNAM": "02262AD196031C87", "CATMOR": 7, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3928906, 41.5222024 ] } },
+{ "type": "Feature", "properties": { "RCID": 2348, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 569926584, "FIDS": 7303, "LNAM": "022621F863B81C87", "CATMOR": 1, "WATLEV": 2, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3599298, 41.5261761 ] } },
+{ "type": "Feature", "properties": { "RCID": 2349, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 527011694, "FIDS": 7303, "LNAM": "02261F698F6E1C87", "CATMOR": 1, "WATLEV": 2, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3598951, 41.5259619 ] } },
+{ "type": "Feature", "properties": { "RCID": 2350, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 39244220, "FIDS": 7303, "LNAM": "02260256D1BC1C87", "CATMOR": 7, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3843944, 41.5052418 ] } },
+{ "type": "Feature", "properties": { "RCID": 2351, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 746189348, "FIDS": 7303, "LNAM": "02262C79F2241C87", "CATMOR": 1, "WATLEV": 2, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3599634, 41.5264173 ] } },
+{ "type": "Feature", "properties": { "RCID": 2352, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 135586844, "FIDS": 7303, "LNAM": "02260814E41C1C87", "CATMOR": 7, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3924259, 41.5255893 ] } },
+{ "type": "Feature", "properties": { "RCID": 2353, "PRIM": 1, "GRUP": 2, "OBJL": 84, "RVER": 1, "AGEN": 550, "FIDN": 266772460, "FIDS": 7303, "LNAM": "02260FE69FEC1C87", "CATMOR": 1, "WATLEV": 2, "SCAMIN": 44999, "SORDAT": "200504", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "Point", "coordinates": [ -71.3440381, 41.5387994 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DAMCON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 437, "PRIM": 2, "GRUP": 2, "OBJL": 38, "RVER": 1, "AGEN": 550, "FIDN": 215703288, "FIDS": 8691, "LNAM": "02260CDB5EF821F3", "SORDAT": "201701", "SORIND": "US,US,graph,Chart 13223" }, "geometry": { "type": "LineString", "coordinates": [ [ -71.371105, 41.5293846 ], [ -71.3726008, 41.529512 ], [ -71.3746009, 41.5296405 ] ] } }
+]
+}

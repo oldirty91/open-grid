@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RTPBCN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 70, "PRIM": 1, "GRUP": 2, "OBJL": 103, "RVER": 1, "AGEN": 550, "FIDN": 964549335, "FIDS": 8691, "LNAM": "0226397DDAD721F3", "CATRTB": 2, "RADWAL": "0.03-X", "SIGGRP": "(N)", "SCAMIN": 59999, "SORDAT": "20120518", "SORIND": "US,US,reprt,USCG Light List vol 1,17910" }, "geometry": { "type": "Point", "coordinates": [ -71.3487, 41.5049694 ] } }
+]
+}

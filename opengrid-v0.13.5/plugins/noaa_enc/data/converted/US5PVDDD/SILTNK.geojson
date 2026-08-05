@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SILTNK",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 522, "PRIM": 1, "GRUP": 2, "OBJL": 125, "RVER": 1, "AGEN": 550, "FIDN": 664009461, "FIDS": 7303, "LNAM": "02262793FAF51C87", "CATSIL": 4, "PRODCT": [ "3" ], "SCAMIN": 29999, "SORDAT": "20140818", "SORIND": "US,US,graph,GC-11187" }, "geometry": { "type": "Point", "coordinates": [ -71.3732009, 41.4908597 ] } }
+]
+}

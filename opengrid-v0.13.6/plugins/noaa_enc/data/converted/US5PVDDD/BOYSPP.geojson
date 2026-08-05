@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BOYSPP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 42, "PRIM": 1, "GRUP": 2, "OBJL": 19, "RVER": 1, "AGEN": 550, "FIDN": 925346080, "FIDS": 2018, "LNAM": "02263727A92007E2", "LNAM_REFS": [ "02260424A71507E2" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATSPM": [ "55" ], "COLOUR": [ "1", "11" ], "COLPAT": [ "1" ], "OBJNAM": "American Mussel Harvesters Aquaculture Ltd Buoy A", "STATUS": [ "8" ], "SCAMIN": 59999, "SORDAT": "20210407", "SORIND": "US,US,reprt,1stCGD,LNM 14/21" }, "geometry": { "type": "Point", "coordinates": [ -71.392, 41.5105667 ] } },
+{ "type": "Feature", "properties": { "RCID": 43, "PRIM": 1, "GRUP": 2, "OBJL": 19, "RVER": 1, "AGEN": 550, "FIDN": 515450735, "FIDS": 2018, "LNAM": "02261EB9276F07E2", "LNAM_REFS": [ "022626C6374807E2" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATSPM": [ "55" ], "COLOUR": [ "1", "11" ], "COLPAT": [ "1" ], "OBJNAM": "American Mussel Harvesters Aquaculture Ltd Buoy B", "STATUS": [ "8" ], "SCAMIN": 59999, "SORDAT": "20210407", "SORIND": "US,US,reprt,1stCGD,LNM 14/21" }, "geometry": { "type": "Point", "coordinates": [ -71.39455, 41.5162333 ] } }
+]
+}
