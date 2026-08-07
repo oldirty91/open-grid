@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ACHARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1033, "PRIM": 3, "GRUP": 2, "OBJL": 4, "RVER": 1, "AGEN": 550, "FIDN": -1915077012, "FIDS": 48294, "LNAM": "02268DDA3E6CBCA6", "OBJNAM": "Block Island Sound N.Y", "RESTRN": [ "8" ], "INFORM": "33 CFR 110.150: Navigation regulations are published in Chapter 2 of the U.S. Coast Pilot for this geographic area. Refer to regulation section numbers", "SCAMIN": 999999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.0, 41.1018728 ], [ -72.0, 41.1112283 ], [ -72.0, 41.1203578 ], [ -72.0, 41.1209819 ], [ -71.9993306, 41.1204545 ], [ -71.9877131, 41.1112998 ], [ -71.9991109, 41.1011519 ], [ -72.0, 41.1018728 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1034, "PRIM": 3, "GRUP": 2, "OBJL": 4, "RVER": 1, "AGEN": 550, "FIDN": -701144270, "FIDS": 48294, "LNAM": "0226D6356332BCA6", "OBJNAM": "Brenton Point Anchorage Ground", "INFORM": "33 CFR 110.149: Navigation regulations are published in Chapter 2 of the U.S. Coast Pilot for this geographic area. Refer to regulation section numbers", "SCAMIN": 699999, "SORDAT": "20120725", "SORIND": "US,US,reprt,L-1461/12" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -71.2453523, 41.3448975 ], [ -71.3423611, 41.3066944 ], [ -71.3423611, 41.3396111 ], [ -71.2539621, 41.3733694 ], [ -71.2445278, 41.3769722 ], [ -71.2445278, 41.3690765 ], [ -71.2445278, 41.3542805 ], [ -71.2445278, 41.3452222 ], [ -71.2453523, 41.3448975 ] ] ] } }
+]
+}

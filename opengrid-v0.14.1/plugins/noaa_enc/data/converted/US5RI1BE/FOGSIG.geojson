@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FOGSIG",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "PRIM": 1, "GRUP": 2, "OBJL": 58, "RVER": 1, "AGEN": 550, "FIDN": 36834469, "FIDS": 50, "LNAM": "022602320CA50032", "CATFOG": 10, "SIGGRP": "(1)", "SIGPER": 20.0, "SIGSEQ": "02.0+(18.0)", "INFORM": "MRASS", "SCAMIN": 29999, "SORDAT": "20151208", "SORIND": "US,US,reprt,1stCGD,LNM 49/15" }, "geometry": { "type": "Point", "coordinates": [ -71.5211611, 41.1147111 ] } }
+]
+}

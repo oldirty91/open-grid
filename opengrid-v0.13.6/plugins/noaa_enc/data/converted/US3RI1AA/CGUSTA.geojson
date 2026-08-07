@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CGUSTA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1029, "PRIM": 1, "GRUP": 2, "OBJL": 29, "RVER": 1, "AGEN": 550, "FIDN": -959621993, "FIDS": 48294, "LNAM": "0226C6CD5497BCA6", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -71.4839117, 41.3674527 ] } },
+{ "type": "Feature", "properties": { "RCID": 1030, "PRIM": 1, "GRUP": 2, "OBJL": 29, "RVER": 1, "AGEN": 550, "FIDN": 1745484452, "FIDS": 48294, "LNAM": "02266809FAA4BCA6", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -71.3585121, 41.4616249 ] } },
+{ "type": "Feature", "properties": { "RCID": 1031, "PRIM": 1, "GRUP": 2, "OBJL": 29, "RVER": 1, "AGEN": 550, "FIDN": 1116389595, "FIDS": 48294, "LNAM": "0226428AC0DBBCA6", "SCAMIN": 499999, "SORDAT": "200303", "SORIND": "US,US,graph,Chart 12300" }, "geometry": { "type": "Point", "coordinates": [ -71.9342966, 41.0701904 ] } }
+]
+}
